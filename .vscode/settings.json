@@ -1,0 +1,12 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontFamily": "Fira Code",
+  "macros": {
+    "execCurLn": [
+        "expandLineSelection",
+        "workbench.action.terminal.runSelectedText",
+        "cancelSelection"
+    ]
+  }
+}
